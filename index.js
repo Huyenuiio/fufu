@@ -10,8 +10,8 @@ app.use(express.json()); // Để xử lý JSON trong body request
 
 // Dữ liệu mẫu
 const data = {
-    title: 'Ảnh đẹp',
-    img: 'https://via.placeholder.com/400x300', // Thay thế bằng URL ảnh thực tế
+    title: 'fufu1',
+    img: 'https://file.hstatic.net/200000455999/file/hoa-anh-dao__2__ff20ca77b429499f93341482097ccc18_grande.png', // Thay thế bằng URL ảnh thực tế
 };
 
 // API endpoint để lấy dữ liệu
